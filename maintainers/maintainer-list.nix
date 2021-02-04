@@ -1705,6 +1705,12 @@
     githubId = 3956062;
     name = "Simon Lackerbauer";
   };
+  cipharius = {
+    email = "cipharius@pm.me";
+    github = "cipharius";
+    githubId = 1903120;
+    name = "Valts Liepiņš";
+  };
   cizra = {
     email = "todurov+nix@gmail.com";
     github = "cizra";
